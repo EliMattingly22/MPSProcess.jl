@@ -1,0 +1,13 @@
+name = "MPSProcess"
+uuid = "1ba1e744-cb87-4d9b-8a71-8ce3866cfd4f"
+authors = ["Eli Mattingly"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
